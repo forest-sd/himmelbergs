@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elevate Your Outdoor Living</title>
+    <link>https://himmelbergs.pages.dev</link>
+    <description>Latest posts from Elevate Your Outdoor Living</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://himmelbergs.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building Stronger Communities Through Local Engagement</title>
+      <link>https://himmelbergs.pages.dev/posts/building-stronger-communities-through-local-engagement/</link>
+      <description>Building Stronger Communities Through Local Engagement — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Choosing Outdoor Furniture That Lasts</title>
+      <link>https://himmelbergs.pages.dev/posts/choosing-outdoor-furniture-that-lasts/</link>
+      <description>Expert guide to selecting durable and beautiful outdoor furniture.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Creating a Beautiful Garden for Beginners</title>
+      <link>https://himmelbergs.pages.dev/posts/creating-a-beautiful-garden-tips-and-tricks-for-beginners/</link>
+      <description>Comprehensive guide to planning and creating your first garden.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Designing Outdoor Entertaining Spaces</title>
+      <link>https://himmelbergs.pages.dev/posts/outdoor-entertaining-spaces/</link>
+      <description>Create the perfect outdoor environment for hosting and entertaining.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>

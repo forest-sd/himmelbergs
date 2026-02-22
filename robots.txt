@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://himmelbergs.com/sitemap.xml
+
+Sitemap: https://himmelbergs.pages.dev/sitemap.xml
